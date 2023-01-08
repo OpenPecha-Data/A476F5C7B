@@ -1,0 +1,19 @@
+id: A476F5C7B
+title: Words of Jamyang Khyentse
+type: translation
+pechas:
+- I4A4BE384
+- ID913D52B
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:45:18.773613
+  last_modified_at: 2023-01-04 12:45:18.773630
+  collections:
+  - Jokyab Pema Trinlé Nyingpo
+  - Works of Tibetan Masters
+alignment_to_base:
+  I4A4BE384/D5DA: '1342'
+  ID913D52B/B835: '1342'
